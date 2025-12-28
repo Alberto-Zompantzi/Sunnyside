@@ -18,13 +18,10 @@ JavaScript Dynamic catalog logic
 Google Fonts Typography
 Font Awesome Iconography
 Netlify Production deployment
-GitHub Pages Technical preview
 Deployments
 🔗 Live Production (Netlify)
 https://sunnysideboutique.netlify.app/
 
-🔗 Technical Reference (GitHub Pages)
-https://alberto-zompantzi.github.io/Sunnyside-Ropa-De-Marca-Femenina-Online/
 
 SEO & Metadata Included
 OG tags for social media previews
