@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://sunnysideboutique.netlify.app/sitemap.xml
