@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://sunnysideboutique.netlify.app/sitemap.xml
+Sitemap: https://sunnysideboutique.pages.dev/sitemap.xml

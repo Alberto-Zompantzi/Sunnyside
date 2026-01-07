@@ -1,46 +1,64 @@
-🌞 Sunnyside | Women’s Branded Fashion Online
-Frontend Project – HTML, CSS, JavaScript
+# 🌞 Sunnyside | Moda Femenina Online
 
-Sunnyside is an online store focused on contemporary women's fashion.
-This repository contains the version intended for technical review, portfolio demonstration, and development tracking.
+**Proyecto Frontend — HTML, CSS y JavaScript**
 
-Features
-Fully responsive design (mobile, tablet, and desktop)
-SEO optimized: metadata, semantic structure, and OG tags
-Dynamic product catalog rendered through JavaScript
-Lightweight loading and optimized assets
-Brand-aligned visual identity and layout
-Technologies Used
-Technology Purpose
-HTML5 Semantic structure
-CSS3 Responsive design & custom UI
-JavaScript Dynamic catalog logic
-Google Fonts Typography
-Font Awesome Iconography
-Netlify Production deployment
-GitHub Pages Technical preview
-Deployments
-🔗 Live Production (Netlify)
-https://sunnysideboutique.netlify.app/
+Sunnyside es una tienda en línea enfocada en **moda femenina contemporánea**, diseñada con una interfaz limpia, moderna y alineada a la identidad de marca.
 
-🔗 Technical Reference (GitHub Pages)
-https://alberto-zompantzi.github.io/Sunnyside-Ropa-De-Marca-Femenina-Online/
+Este repositorio contiene la versión del proyecto destinada a **revisión técnica**, **demostración de portafolio** y **seguimiento de desarrollo frontend**, destacando buenas prácticas en maquetación, diseño responsivo y estructura semántica.
 
-SEO & Metadata Included
-OG tags for social media previews
-Meta description + fashion-focused keywords
-Favicon + brand typography
-robots.txt & sitemap (production deployment)
-Proper Google indexing
+---
 
-Author
+## Características Principales
 
-Alberto Zompantzi Frontend Web Developer
+- **Diseño completamente responsivo** (mobile, tablet y desktop)
+- **Optimización SEO** mediante HTML semántico, metadatos y etiquetas OG
+- **Catálogo de productos dinámico** renderizado con JavaScript
+- **Carga ligera y assets optimizados** para mejor rendimiento
+- **Identidad visual alineada a la marca**, con layout limpio y consistente
 
-🔗 GitHub: https://github.com/Alberto-Zompantzi
+---
 
-📧 Email: alberto-zompantzi@outlook.com
+## Tecnologías Utilizadas
 
-License
+| Tecnología   | Propósito                                  |
+| ------------ | ------------------------------------------ |
+| HTML5        | Estructura semántica y accesible           |
+| CSS3         | Diseño responsivo y estilos personalizados |
+| JavaScript   | Lógica dinámica del catálogo               |
+| Google Fonts | Tipografía web                             |
+| Font Awesome | Iconografía                                |
+| Cloudflare   | Despliegue en producción                   |
 
-This project is intended exclusively for portfolio and professional review purposes. Commercial use is prohibited without written authorization from the author.
+---
+
+## Deploys
+
+- **Producción (Cloudflare Pages):**  
+  🔗 https://sunnysideboutique.pages.dev/
+
+---
+
+## SEO y Metadatos Incluidos
+
+- Etiquetas **Open Graph (OG)** para previsualización en redes sociales
+- **Meta description** y palabras clave orientadas a moda
+- **Favicon** y tipografía coherente con la marca
+- Archivo **robots.txt** y **sitemap.xml** (entorno de producción)
+- Estructura preparada para **indexación en Google**
+
+---
+
+## 👨 Autor
+
+**Alberto Zompantzi**  
+Frontend Web Developer
+
+- 🔗 GitHub: https://github.com/Alberto-Zompantzi
+- 📧 Email: alberto-zompantzi@outlook.com
+
+---
+
+## Licencia
+
+Este proyecto está destinado **exclusivamente para fines de portafolio y evaluación profesional**.  
+Queda prohibido su uso comercial sin autorización escrita del autor.
