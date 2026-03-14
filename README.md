@@ -1,6 +1,6 @@
 # 🌞 Sunnyside | Moda Femenina Online
 
-**Proyecto Frontend — HTML, CSS y JavaScript**
+**Proyecto Frontend — HTML, CSS y JavaScript (sin frameworks)**
 
 Sunnyside es una tienda en línea enfocada en **moda femenina contemporánea**, diseñada con una interfaz limpia, moderna y alineada a la identidad de marca.
 
@@ -8,7 +8,7 @@ Este repositorio contiene la versión del proyecto destinada a **revisión técn
 
 ---
 
-## Características Principales
+## Características principales
 
 - **Diseño completamente responsivo** (mobile, tablet y desktop)
 - **Optimización SEO** mediante HTML semántico, metadatos y etiquetas OG
@@ -18,7 +18,7 @@ Este repositorio contiene la versión del proyecto destinada a **revisión técn
 
 ---
 
-## Tecnologías Utilizadas
+## Tecnologías utilizadas
 
 | Tecnología   | Propósito                                  |
 | ------------ | ------------------------------------------ |
@@ -38,7 +38,7 @@ Este repositorio contiene la versión del proyecto destinada a **revisión técn
 
 ---
 
-## SEO y Metadatos Incluidos
+## SEO y metadatos incluidos
 
 - Etiquetas **Open Graph (OG)** para previsualización en redes sociales
 - **Meta description** y palabras clave orientadas a moda
@@ -51,7 +51,7 @@ Este repositorio contiene la versión del proyecto destinada a **revisión técn
 ## 👨 Autor
 
 **Alberto Zompantzi**  
-Frontend Web Developer
+Software Engineer — Backend & Fullstack (Java / Spring / React)
 
 - 🔗 GitHub: https://github.com/Alberto-Zompantzi
 - 📧 Email: alberto-zompantzi@outlook.com
